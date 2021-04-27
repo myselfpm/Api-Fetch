@@ -1,18 +1,17 @@
-# Build and Release Folders
-bin-debug/
-bin-release/
-[Oo]bj/
-[Bb]in/
 
-# Other files and folders
-.settings/
+### PHPUnit ###
+# Covers PHPUnit
+# Reference: https://phpunit.de/
 
-# Executables
-*.swf
-*.air
-*.ipa
-*.apk
+# Generated files
+.phpunit.result.cache
+.phpunit.cache
 
-# Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
-# should NOT be excluded as they contain compiler settings and other important
-# information for Eclipse / Flash Builder.
+# PHPUnit
+/app/phpunit.xml
+/phpunit.xml
+
+# Build data
+/build/
+
+# End of https://www.toptal.com/developers/gitignore/api/phpunit
