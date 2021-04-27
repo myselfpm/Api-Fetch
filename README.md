@@ -1,10 +1,10 @@
 # Sanfe
 website link : https://pranjalworld.000webhostapp.com/
 
-For hosting website used : 000webhost.com
-Language used in making website : HTML,CSS,JavaScript,Jquery,PHP,Ajax
-Technology Used : Google Sheet
-Api Used : API Spreadsheets i.e. https://www.apispreadsheets.com/
+* For hosting website used : 000webhost.com
+* Language used in making website : HTML,CSS,JavaScript,Jquery,PHP,Ajax
+* Technology Used : Google Sheet
+* Api Used : API Spreadsheets i.e. https://www.apispreadsheets.com/
 _______________________________________________________________________
 
 ## Setup Information
